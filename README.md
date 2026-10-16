@@ -1,5 +1,10 @@
 ## Key Finding
 Technology had the highest sales ($836,154.03) and profit ($145,454.95).
+| Category | Sales | Profit | Average Discount |
+|---|---:|---:|---:|
+| Furniture | $741,999.80 | $18,451.27 | 17.39% |
+| Office Supplies | $719,047.03 | $122,490.80 | 15.73% |
+| Technology | $836,154.03 | $145,454.95 | 13.23% |
 ## Project Overview
 Analyzed the Sample Superstore sales dataset using Python and Pandas.
 
