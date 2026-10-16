@@ -17,7 +17,7 @@ Analyzed the Sample Superstore sales dataset using Python and Pandas.
 - `src/load_data.py` — loads and analyzes the dataset
 - `data/processed/category_summary.csv` — category sales and profit summary
 - `data/processed/sales_profit_by_category.png` — category comparison chart
-![Sales and Profit by Category](data/processed/sales_profit_by_category.png)
+![Sales and Profit by Category](processed/sales_profit_by_category.png)
 ### Regional Performance
 - West had the highest sales ($725,457.82) and profit ($108,418.45).
 - South had the lowest sales ($391,721.91).
