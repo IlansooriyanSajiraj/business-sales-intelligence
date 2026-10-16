@@ -28,3 +28,8 @@ Analyzed the Sample Superstore sales dataset using Python and Pandas.
 - South had the lowest sales ($391,721.91).
 ## Dataset
 Download the Sample Superstore CSV dataset and place it in `data/raw/` as `Samplesuperstore.csv`.
+## How to Run
+1. Install Python.
+2. Download the Sample Superstore CSV and place it at `data/raw/Samplesuperstore.csv`.
+3. Install the required package: `python -m pip install -r requirements.txt`
+4. Run the analysis: `python src/load_data.py`
