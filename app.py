@@ -4,7 +4,7 @@ import streamlit as st
 st.title("Business Sales Intelligence")
 st.write("Sample Superstore sales data")
 
-df = pd.read_csv("data/raw/Samplesuperstore.csv")
+df = pd.read_csv("data/raw/SampleSuperstore.csv")
 st.dataframe(df.head())
 import pandas as pd
 import streamlit as st
